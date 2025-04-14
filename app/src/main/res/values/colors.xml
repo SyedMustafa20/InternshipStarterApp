@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="splash_background">#A6C9F0</color>
+    <color name="dark_splash_background">#0178DE</color>
+    <color name="motivation_button">#19405B</color>
+    <color name="primary">#81D7FF</color>
+    <color name="motivation_button_text">#FFFFFFFF</color>
+    <color name="text_color">#FF000000</color>
+
+</resources>
